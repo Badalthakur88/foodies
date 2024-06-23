@@ -1,0 +1,55 @@
+@media (max-width: 1024px) {
+    
+}
+/* ========================= */
+@media (max-width: 991px){
+
+    .navigation-wrap .navbar-brand img{
+        height: 2rem;
+    }
+    .navigation-wrap{
+        text-align: center;
+        background-color: rgb(237, 235, 235);
+    }
+    .navigation-wrap{
+        line-height: 1.875rem;
+    }
+    .top-banner{
+        padding: 9rem 0 9rem;
+    }
+}
+/* ========================== */
+@media (max-width: 767px){
+
+    h1{
+        font-size: 2rem;
+    }
+    h2{
+        font-size: 2rem;
+    }
+    .top-baner{
+        padding: 10rem 0 10rem;
+
+    }
+    .testi-cards{
+        margin-top: 70px;
+    }
+    .footer-content{
+        margin-top: 30px;
+    }
+
+/* story sec */
+    .story-section{
+        height: auto;
+        padding: 3rem 0;
+
+    }
+    .footer .footer-link,
+    .footer a i{
+        padding: 0 0.5rem;
+        
+    }
+
+}
+
+
